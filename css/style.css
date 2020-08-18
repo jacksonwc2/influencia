@@ -116,3 +116,7 @@
 }
 
 .conferencia h1 {color: #fff;}
+
+.contatos input {
+    border-radius: 0px;
+}
